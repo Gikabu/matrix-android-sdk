@@ -168,8 +168,8 @@ dependencies {
     implementation "com.squareup.okhttp3:okhttp:$okhttp_version"
     implementation 'com.squareup.okhttp3:logging-interceptor:3.10.0'
 
-    // olm lib is now hosted by jitpack: https://jitpack.io/#org.matrix.gitlab.matrix-org/olm
-    implementation 'org.matrix.gitlab.matrix-org:olm:3.1.2'
+    // olm lib is now hosted by jitpack: https://jitpack.io/#com.github.Gikabu/Olm
+    implementation 'com.github.Gikabu:Olm:3.1.4'
 
     // Database
     kapt 'dk.ilios:realmfieldnameshelper:1.1.1'
